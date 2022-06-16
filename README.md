@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   BuyMeACoffee:  https://buymeacoffee.com/aytvill
          Ko-Fi:  https://ko-fi.com/aytvill
         Medium:  https://medium.com/@aytvill
+        Tumblr:  https://aytvill.tumblr.com/
       
 
 ![](https://komarev.com/ghpvc/?username=aytvill&style=flat-square)
