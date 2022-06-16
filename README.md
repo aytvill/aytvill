@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-
+         Web:  https://beacons.ai/aytvill
+     Twitter:  https://twitter.com/aytvill
+BuyMeACoffee:  https://buymeacoffee.com/aytvill
+       Ko-Fi:  https://ko-fi.com/aytvill
+      Medium:  https://medium.com/@aytvill
+      
 
 ![](https://komarev.com/ghpvc/?username=aytvill&style=flat-square)
 ![Github Stats for Andrea Tvilling](https://github-readme-stats.vercel.app/api?username=aytvill&show_icons=true&hide_border=true&count_private=true)
