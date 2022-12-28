@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on projects which help non-binary, fluid and LGBTIQ+ folks in general
 - 📫 How to reach me: old skool plain [email](mailto:aytvill@protonmail.com)
 
-I'm Andrea from Tvillings, beginner as web developer.
+I'm Andrea of Tvillings, beginner as web developer.
 
 <!--
 **aytvill/aytvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ```
 # cat > /tmp/list.txt <<EOT
 > Web:     https://beacons.ai/aytvill
+> Masto:   https://tech.lgbt/@aytvill
 > Twitter: https://twitter.com/aytvill
 > BMAC:    https://buymeacoffee.com/aytvill
 > Ko-Fi:   https://ko-fi.com/aytvill
