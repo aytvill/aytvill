@@ -35,3 +35,4 @@ EOT
 ![Github Stats for Andrea Tvilling](https://github-readme-stats.vercel.app/api?username=aytvill&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aytvill&layout=compact&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aytvill&column=3&margin-w=20&margin-h=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![@Andrea's Holopin board](https://holopin.io/api/user/board?user=aytvill)](https://holopin.io/@aytvill)
