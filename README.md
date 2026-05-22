@@ -2,7 +2,7 @@
 
 <a href="https://tech.lgbt/@aytvill" rel="me"><img src="https://img.shields.io/mastodon/follow/109323830506592265?domain=https%3A%2F%2Ftech.lgbt&label=Follow%20me%20on%20Mastodon&style=social" alt="Follow me on Mastodon" /></a> 
 
-- 😄 Pronouns: she/he/they (fluid)
+- 😄 Pronouns: she/they/he (genderfluid)
 - ⚡ Fun fact: I'm only one of very few Tvillings
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on projects which help non-binary, fluid and LGBTIQ+ folks in general
