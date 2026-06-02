@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ```
 # cat > /tmp/list.txt <<EOT
-> Web:     https://beacons.ai/aytvill
+> Web:     https://linktr.ee/aytvill
 > Masto:   https://tech.lgbt/@aytvill
 > Twitter: https://twitter.com/aytvill
 > BMAC:    https://buymeacoffee.com/aytvill
